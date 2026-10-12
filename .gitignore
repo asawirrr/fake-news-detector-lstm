@@ -1,4 +1,18 @@
-Fake.csv
-True.csv
-extra models i trained/
+# Notebooks & Checkpoints
 Untitled.ipynb
+.ipynb_checkpoints/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Extra experimental models
+extra models i trained/
+
+# OS generated files
+.DS_Store
+Thumbs.db
